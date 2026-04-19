@@ -1,0 +1,9 @@
+# Obsidian (all config, plugins, workspace state — local only)
+.obsidian/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Trash
+.trash/
