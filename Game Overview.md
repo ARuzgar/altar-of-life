@@ -1,4 +1,4 @@
-# Altar of Life — Game Overview
+git add . && git commit -m "Move reference images to Notes & Ideas, update Inspirations"# Altar of Life — Game Overview
 
 > *"Everything has a price. Here, that price is you."*
 

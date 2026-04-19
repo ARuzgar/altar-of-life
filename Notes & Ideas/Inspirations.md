@@ -87,6 +87,20 @@ These are personal suggestions — things that might not be obvious sources but 
 
 ---
 
+## Visual Reference Images
+
+Two reference images saved in this folder that define the card aesthetic target:
+
+![[Reference — Tarot Card Aesthetic.avif]]
+A spread of dark foil tarot cards — black ground, gold and holographic foil illustration, constellation motifs, clean serif card names. This is the primary aesthetic register for Altar of Life cards.
+
+![[Reference — Holographic Foil Card Back.webp]]
+A single card back featuring a compass/wheel motif, a winged figure emerging from the center, two shadow figures at the base, and full rainbow holographic foil on black. Strong candidate for the card back design direction.
+
+*See [[Card Visual Direction]] for full breakdown of the aesthetic.*
+
+---
+
 ## Tone Calibration
 
 The target tone sits in a specific quadrant. It is:
